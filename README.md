@@ -1,36 +1,137 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Here is a **clean, academic-friendly GitHub README** tailored specifically for **college instructors and IBM Skills Network / watsonx bootcamp evaluators**.
+It emphasizes learning outcomes, IBM technology usage, teamwork, and professional framing.
 
-## Getting Started
+---
 
-First, run the development server:
+# **Numina — AI-Powered Personal Finance Assistant**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+*Developed for the IBM Skills Network / watsonx College Program*
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Numina is a group-developed AI-powered personal finance assistant designed as part of a college IBM online program and bootcamp initiative. The project showcases our team’s ability to integrate **agentic AI**, **IBM watsonx**, and modern full-stack web technologies to build an interactive, educational, and technically rigorous application.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Numina demonstrates applied skills in cloud technology, generative AI workflows, and secure financial data design. It reflects the principles taught in the IBM curriculum, including AI integration, responsible development, and real-world system planning.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## **📘 Project Overview**
 
-To learn more about Next.js, take a look at the following resources:
+Numina is designed to help users understand personal spending habits, improve financial literacy, and receive guidance through an AI-driven conversational interface. Built using **Next.js, React, Tailwind, and TypeScript**, the system incorporates IBM watsonx Assistant to provide context-aware reasoning and financial explanations in real time.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Our project focuses on creating a foundation for an intelligent personal finance platform while demonstrating mastery of AI orchestration and IBM cloud services.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## **🧠 Use of Agentic AI & IBM watsonx**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+A key requirement of the IBM program was the integration of AI in a meaningful, application-driven way.
+Numina embeds **IBM watsonx Assistant** as its central conversational engine.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Through watsonx Assistant, Numina can:
+
+* Interpret user questions about personal finance topics
+* Engage in multi-turn, context-sensitive conversations
+* Provide structured, educational explanations
+* Guide users through budgeting, savings concepts, and spending behavior
+
+This integration allowed our team to apply concepts from the IBM bootcamp, such as prompt design, agentic behavior, intent handling, context variables, and conversational planning.
+
+We also prepared Numina for future integration with **watsonx Generative AI** models for automated financial insights and data-driven reasoning.
+
+---
+
+## **☁️ IBM Cloud Integration (Planned)**
+
+As part of our future expansion roadmap, we plan to deploy Numina to **IBM Cloud Engine** for:
+
+* Scalable hosting of the Next.js application
+* Backend API support
+* Secure handling of user session data
+* Integration with watsonx Generative AI APIs
+
+This aligns with IBM Cloud best practices and the cloud-native development models taught in the course.
+
+---
+
+## **💳 Planned Financial Data Integration (Plaid)**
+
+Although out of scope for the bootcamp timeline, our extended project roadmap includes integrating **Plaid**, which will allow users to securely link bank accounts and enable:
+
+* Automatic import of transaction history
+* Categorization and analysis of spending
+* Personalized financial insights for the AI assistant
+
+This demonstrates how we plan to evolve Numina beyond a prototype into a complete intelligent finance system.
+
+---
+
+## **🏗️ Technologies Used**
+
+**Frontend Development:**
+
+* Next.js
+* React
+* Tailwind CSS
+* TypeScript
+
+**AI Services:**
+
+* IBM watsonx Assistant
+* (Planned) watsonx Generative AI
+
+**Cloud Services:**
+
+* (Planned) IBM Cloud Engine deployment
+
+**Financial Data:**
+
+* (Planned) Plaid API
+
+The architecture reflects modern full-stack practices emphasized in IBM Skills Network content.
+
+---
+
+## **🎯 Educational Objectives Achieved**
+
+This project demonstrates our ability to:
+
+* Build a full-stack application using modern JavaScript frameworks
+* Integrate agentic AI into a real-world application
+* Understand and apply IBM watsonx AI orchestration tools
+* Work collaboratively using Git, version control, and agile development practices
+* Plan cloud-native deployment on IBM Cloud
+* Design secure, compliance-aware financial data flows
+
+Through Numina, our team showed proficiency in both technical implementation and the AI design principles taught in the IBM program.
+
+---
+
+## **👥 Team Project**
+
+Numina was collaboratively built by our group as part of the IBM college bootcamp.
+(If you'd like, I can add a formatted Contributors section with names and roles.)
+
+---
+
+## **📄 Academic Notes for Instructors**
+
+This repository includes:
+
+* The full source code for the Next.js application
+* Documentation describing our use of IBM watsonx
+* Architectural planning for IBM Cloud and Plaid integration
+* Evidence of iterative development through commit history
+* A written statement on agentic AI usage (if needed, I can format it as a separate markdown file)
+
+Everything is structured for clear evaluation of learning outcomes and technical mastery.
+
+---
+
+If you want, I can also generate:
+
+✅ a **PDF version** of the README for submission
+✅ a **slide deck summary** for your final presentation
+✅ a **diagram** (architecture, workflow, or AI pipeline)
+or
+✅ a **Contribution Breakdown** for each team member
+
+Just tell me!
