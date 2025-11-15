@@ -3,12 +3,6 @@
 
 # **Numina — AI-Powered Personal Finance Assistant**
 
-Numina is a group-developed AI-powered personal finance assistant designed as part of a college IBM online program and bootcamp initiative. The project showcases our team’s ability to integrate **agentic AI**, **IBM watsonx**, and modern full-stack web technologies to build an interactive, educational, and technically rigorous application.
-
-Numina demonstrates applied skills in cloud technology, generative AI workflows, and secure financial data design. It reflects the principles taught in the IBM curriculum, including AI integration, responsible development, and real-world system planning.
-
----
-
 ## **📘 Project Overview**
 
 Numina is designed to help users understand personal spending habits, improve financial literacy, and receive guidance through an AI-driven conversational interface. Built using **Next.js, React, Tailwind, and TypeScript**, the system incorporates IBM watsonx Assistant to provide context-aware reasoning and financial explanations in real time.
