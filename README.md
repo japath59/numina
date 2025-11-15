@@ -1,11 +1,7 @@
-Here is a **clean, academic-friendly GitHub README** tailored specifically for **college instructors and IBM Skills Network / watsonx bootcamp evaluators**.
-It emphasizes learning outcomes, IBM technology usage, teamwork, and professional framing.
 
 ---
 
 # **Numina — AI-Powered Personal Finance Assistant**
-
-*Developed for the IBM Skills Network / watsonx College Program*
 
 Numina is a group-developed AI-powered personal finance assistant designed as part of a college IBM online program and bootcamp initiative. The project showcases our team’s ability to integrate **agentic AI**, **IBM watsonx**, and modern full-stack web technologies to build an interactive, educational, and technically rigorous application.
 
@@ -72,6 +68,7 @@ This demonstrates how we plan to evolve Numina beyond a prototype into a complet
 * React
 * Tailwind CSS
 * TypeScript
+* Figma
 
 **AI Services:**
 
@@ -108,30 +105,6 @@ Through Numina, our team showed proficiency in both technical implementation and
 ## **👥 Team Project**
 
 Numina was collaboratively built by our group as part of the IBM college bootcamp.
-(If you'd like, I can add a formatted Contributors section with names and roles.)
 
 ---
 
-## **📄 Academic Notes for Instructors**
-
-This repository includes:
-
-* The full source code for the Next.js application
-* Documentation describing our use of IBM watsonx
-* Architectural planning for IBM Cloud and Plaid integration
-* Evidence of iterative development through commit history
-* A written statement on agentic AI usage (if needed, I can format it as a separate markdown file)
-
-Everything is structured for clear evaluation of learning outcomes and technical mastery.
-
----
-
-If you want, I can also generate:
-
-✅ a **PDF version** of the README for submission
-✅ a **slide deck summary** for your final presentation
-✅ a **diagram** (architecture, workflow, or AI pipeline)
-or
-✅ a **Contribution Breakdown** for each team member
-
-Just tell me!
